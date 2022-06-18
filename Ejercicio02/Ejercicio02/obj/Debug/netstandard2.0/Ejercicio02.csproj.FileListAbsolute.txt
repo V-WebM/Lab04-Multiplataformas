@@ -1,0 +1,15 @@
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\CarouselPage1.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\ModalPage1.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.AssemblyInfo.cs
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.dll
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\refint\Ejercicio02.dll
+C:\Users\Ventura\source\repos\Ejercicio02\Ejercicio02\Ejercicio02\obj\Debug\netstandard2.0\Ejercicio02.pdb
